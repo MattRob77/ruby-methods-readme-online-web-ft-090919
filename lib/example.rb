@@ -75,3 +75,6 @@ def greeting # Method Signature
   puts "Hello World" # Method Body
 end # Method Closing
 
+def greeting
+  # Leave a line break for the method body
+end # Immediately close the method.
