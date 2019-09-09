@@ -78,3 +78,4 @@ end # Method Closing
 def greeting
   # Leave a line break for the method body
 end # Immediately close the method.
+
