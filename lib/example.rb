@@ -71,3 +71,6 @@ say_hello_world_ten_times
  
 say_hello_world_ten_times
 
+def greeting # Method Signature
+  puts "Hello World" # Method Body
+end # Method Closing
