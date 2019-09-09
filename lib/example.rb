@@ -83,3 +83,12 @@ def greeting
   puts "Hello World" # Now code the body of the method.
 end
 
+def greeting
+  puts "Hello World"
+end
+ 
+greeting # Executing the method by name
+#=> "Hello World"
+ 
+greeting # Executing the method again
+#=> "Hello World"
