@@ -79,3 +79,6 @@ def greeting
   # Leave a line break for the method body
 end # Immediately close the method.
 
+def greeting
+  puts "Hello World" # Now code the body of the method.
+end
